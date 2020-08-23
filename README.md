@@ -8,13 +8,13 @@
 
 
 ### Interests
-[![](https://img.shields.io/badge/.csharp-12AF42?style=for-the-badge&logo=c%20sharp)]()
-[![](https://img.shields.io/badge/nodejs-12AF422?style=for-the-badge&logo=nodejs)]()
-[![](https://img.shields.io/badge/flutter-12AF422?style=for-the-badge&logo=flutter)]()
-[![](https://img.shields.io/badge/javascript-12AF422?style=for-the-badge&logo=javascript)]()
-[![](https://img.shields.io/badge/react-fb8532?style=for-the-badge&logo=react)]()
-[![](https://img.shields.io/badge/aws-12AF422?style=for-the-badge&logo=amazon aws)]()
-[![](https://img.shields.io/badge/azure-12AF422?style=for-the-badge&logo=microsoft azure)]()
+[![](https://img.shields.io/badge/csharp-12AF42?style=plastic&logo=c%20sharp)]()
+[![](https://img.shields.io/badge/nodejs-12AF42?style=plastic&logo=nodejs)]()
+[![](https://img.shields.io/badge/flutter-12AF42?style=plastic&logo=flutter)]()
+[![](https://img.shields.io/badge/javascript-12AF42?style=plastic&logo=javascript)]()
+[![](https://img.shields.io/badge/react-12AF42?style=plastic&logo=react)]()
+[![](https://img.shields.io/badge/aws-12AF42?style=plastic&logo=amazon%20aws)]()
+[![](https://img.shields.io/badge/azure-12AF42?style=plastic&logo=microsoft%20azure)]()
 
 
 
