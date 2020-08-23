@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Oplog
 - 🌱 I’m currently learning Serverless Architectures
-- 👯 I’m looking to collaborate on Itsbaseline
+- 👯 I’m collaborate on Itsbaseline
 - 📫 How to reach me: alifaruk.km01@gmail.com
 
 
