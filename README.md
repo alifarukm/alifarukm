@@ -1,20 +1,17 @@
 ### Hi there 👋
 ### You can call me 'AFK'
 
-- 🔭 I’m currently working on ExtraWatts
+- 🔭 I’m currently working on Qooper Mentoring Software
 - 🌱 I’m currently learning Serverless Architectures
-- 👯 I’m collaborate on Itsbaseline
+- 👯 I’m collaborate on SigunTech
 - 📫 How to reach me: alifaruk.km01@gmail.com
 
 
 ### Interests
-[![](https://img.shields.io/badge/csharp-12AF42?style=plastic&logo=c%20sharp)]()
 [![](https://img.shields.io/badge/nodejs-12AF42?style=plastic&logo=nodejs)]()
-[![](https://img.shields.io/badge/flutter-12AF42?style=plastic&logo=flutter)]()
 [![](https://img.shields.io/badge/javascript-12AF42?style=plastic&logo=javascript)]()
 [![](https://img.shields.io/badge/react-12AF42?style=plastic&logo=react)]()
 [![](https://img.shields.io/badge/aws-12AF42?style=plastic&logo=amazon%20aws)]()
-[![](https://img.shields.io/badge/azure-12AF42?style=plastic&logo=microsoft%20azure)]()
 
 
 
